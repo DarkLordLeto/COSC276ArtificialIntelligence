@@ -1,0 +1,7 @@
+--- Test Case 3 ---
+----
+Mazeworld problem: 
+attempted with search method Astar with heuristic <lambda>
+no solution found after visiting 15 nodes
+
+No path found.

@@ -1,0 +1,16 @@
+--- Test Case 5 ---
+----
+Mazeworld problem: 
+attempted with search method Astar with heuristic <lambda>
+number of nodes visited: 36
+solution length: 6
+cost: 4
+path: [(0, 0, 1, 1, 1), (1, 0, 2, 1, 1), (0, 0, 2, 1, 1), (1, 1, 2, 1, 1), (0, 1, 2, 0, 1), (1, 1, 1, 0, 1)]
+
+Path:
+(0, 0, 1, 1, 1)
+(1, 0, 2, 1, 1)
+(0, 0, 2, 1, 1)
+(1, 1, 2, 1, 1)
+(0, 1, 2, 0, 1)
+(1, 1, 1, 0, 1)

@@ -1,0 +1,19 @@
+--- Test Case 1 ---
+----
+Mazeworld problem: 
+attempted with search method Astar with heuristic <lambda>
+number of nodes visited: 21
+solution length: 9
+cost: 8
+path: [(0, 0, 0), (0, 0, 1), (0, 1, 1), (0, 2, 1), (0, 3, 1), (0, 3, 2), (0, 3, 3), (0, 3, 4), (0, 4, 4)]
+
+Path:
+(0, 0, 0)
+(0, 0, 1)
+(0, 1, 1)
+(0, 2, 1)
+(0, 3, 1)
+(0, 3, 2)
+(0, 3, 3)
+(0, 3, 4)
+(0, 4, 4)
